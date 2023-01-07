@@ -1,5 +1,5 @@
 
-บริษัท เอพีเอส ทีเอช จำกัด (APSTH)เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer
+บริษัท เอพีเอส ทีเอช จำกัด (APSTH) เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer
 จัดจำหน่ายและให้บริการ Software ได้แก่
 
 1. โปรแกรม Clinic on Cloud | www.apsth.com 
